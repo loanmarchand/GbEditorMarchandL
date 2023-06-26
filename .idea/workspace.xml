@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aab65382-6429-4611-86c1-7a228bfaacff" name="Changes" comment="Iteration 1">
+      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/marchandl/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/marchandl/config/pmd/b2-ruleset.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/marchandl/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/marchandl/src/main/java/org/helmo/gbeditor/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/marchandl/src/main/java/org/helmo/gbeditor/controller/AuthController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/marchandl/src/main/java/org/helmo/gbeditor/controller/BookController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/marchandl/src/main/java/org/helmo/gbeditor/infrastructure/HelperInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/marchandl/src/main/java/org/helmo/gbeditor/infrastructure/JsonHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/marchandl/src/main/java/org/helmo/gbeditor/model/AuthServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/marchandl/src/main/java/org/helmo/gbeditor/model/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/marchandl/src/main/java/org/helmo/gbeditor/model/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/marchandl/src/main/java/org/helmo/gbeditor/model/BookDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/marchandl/src/main/java/org/helmo/gbeditor/model/BookServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/marchandl/src/main/java/org/helmo/gbeditor/repositories/BookRepositories.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/marchandl/src/main/java/org/helmo/gbeditor/repositories/DtoHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/marchandl/src/main/java/org/helmo/gbeditor/views/AuthView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/marchandl/src/main/java/org/helmo/gbeditor/views/BookView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/marchandl/src/main/resources/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/marchandl/src/test/java/org/helmo/gbeditor/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/marchandl">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="GbEditotMarchandL" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="GbEditotMarchandL" type="f1a62948:ProjectNode" />
+                <item name="marchandl" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="GbEditotMarchandL" type="f1a62948:ProjectNode" />
+                <item name="marchandl" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="GbEditotMarchandL" type="f1a62948:ProjectNode" />
+                <item name="marchandl" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="application" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="module-info" />
+        <option value="CSS File" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2RTEcGmBdBIWIPPK2ZupTgQfFhV" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;corretto-18&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/lolot/IdeaProjects/GbEditotMarchandL/marchandl/config/pmd&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.helmo.gbeditor.model" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lolot\IdeaProjects\GbEditotMarchandL\marchandl\config\pmd" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lolot\IdeaProjects\GbEditotMarchandL\marchandl\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.helmo.gbeditor.App" />
+      <module name="GbEditotMarchandL.marchandl.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.helmo.gbeditor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aab65382-6429-4611-86c1-7a228bfaacff" name="Changes" comment="" />
+      <created>1687265748947</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687265748947</updated>
+      <workItem from="1687265750817" duration="11322000" />
+      <workItem from="1687438514015" duration="979000" />
+      <workItem from="1687451031539" duration="5504000" />
+      <workItem from="1687809849220" duration="436000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Iteration 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Iteration 1" />
+  </component>
+</project>
